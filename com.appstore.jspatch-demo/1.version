@@ -1,5 +1,5 @@
 {
-  version:1,
-  file:"1.js",
-  sign:"base64String"
+    "version": 1,
+    "file": "1.js",
+    "sign": "base64String"
 }
